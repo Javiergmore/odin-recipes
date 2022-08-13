@@ -1,0 +1,23 @@
+body{
+    background-color: coral;
+}
+
+h1{
+    color:black;
+    font-weight: bold;
+}
+
+h2{
+    color: lightgreen;
+    font-weight: bold;
+}
+
+
+li{
+    font-weight: bold;
+}
+
+img{
+    height:auto;
+    width: 400px;
+}
